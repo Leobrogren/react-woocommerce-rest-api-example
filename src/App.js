@@ -4,9 +4,9 @@ import WooCommerceRestApi from "@woocommerce/woocommerce-rest-api";
 import moment from "moment";
 
 const api = new WooCommerceRestApi({
-  url: "https://floyet.mars-cdn.com",
-  consumerKey: "ck_67292b774e164a94c13c64e0b4059fabfcc036e5",
-  consumerSecret: "cs_7625281ba845d6c75c7791b6a4d66ddf096c6afb",
+  url: "https://kottfabriken.wargmedia.nu",
+  consumerKey: "ck_12634c71e79102e51b32b25a1bff37721c6ca1f1",
+  consumerSecret: "cs_f1877643b52ff0b5004f8ab245c3a9156390540d",
   version: "wc/v3",
 });
 
